@@ -1,0 +1,4 @@
+runtime: java11
+service: os-lighthouse
+#entrypoint: 'java -Xmx64m -jar ./target/quarkus-app/quarkus-run.jar'
+

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "os-serbia-quarkus",
+  "private_key_id": "230c7930f9c7ac42c8be7ea9b57224207d6f7a6f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQChihwRmlknjmvP\njtpTXQ8RIzp5W7ebUMONHHwqr/8ows6/iAMc/uX0u/XYhQGDOun2iZTCer5VOqbi\nbOP5iexI3ffe0SpHSoSVZb4aygfwdMH+AI2Fr6IqUNQKcJkROoimSU6HZGUiTxMT\nFZUs3fdIcpwWK7kTlwx8nViaj19ryI46cBzeWglwL4EqCB284XEAplgCfx6BkSO2\nEQ9MHh3gbo/h5IixPsrVZ9/HQofevQD4P3xqkLdEpamFx6cn14cbxxKRlzVhjWf5\ng/WiduMoJREBIFQqAcwQZlY2pBtm2/LQP4ON+9jMZwLKcD3W8MaEX7VIXTX/1q9s\nTAavZlldAgMBAAECggEAIfKAsJBTsRTkgjNenUs+qdbR6IQGQ00HM2XrkBr5T8sU\noLqIEPVeRP6lDRHyfe4JEebazL33triDLq08gYnjDnMbLoedT2sRDsZZW47eeUFI\nLUVXeGMu/J6M2P7NpAm9gth/+ML33+xnMUkFVu70kxSGyb/5fmztUljMsHp1zpP6\nqze+vBbDdhKum9Q04DZyTW7mK1Wx06TbXknqz+yNqdu8PV6RA9MDXo0b/SuSHU2J\nVxRqQzUfapX6EbbHazokKsyLWlcmLPGolr4KBuJ6jFCCH3TUrOU0fSQB7zv2kdYQ\nHQgsiWKbOTogu49IQOFSY9yf/EQM8S4YavSucC0ckQKBgQDg+gGoVUWKAsb6gyo/\nwMTIboV9zYzFrChdrkdW5mDF73s9pumrwV6ZkFpLBaAj9OJ7mlIMdPxOecQsZauW\n0QqUrROQhVjapWzXzPiyGDLPV6qQUnTjn/uI0LngwEvJ2TEuJ8PSyh/jUu6cCSgK\ngZrQrIOgIm2zLaPzlmeQmIx21QKBgQC30K70pTs0ssQRPfOS5qo7XrOXccvW5hti\nFzEhp1HbrwMjOFDx89f93TQfP6YjxPthqFuB+lS+c0m3fyuXaC3UEgcoz2Me6I4X\nSlG4a9/0pYMJHf4f9P1vhxQhda2AKnrzvTsnCbWZ28ZEK0KI48qAJr7y+gMUf5fs\neC4sTGksaQKBgG4LvG3TsB0u+JenOy5OI7OK5D9CIT671E7mpbyrGeEYIGdq0tgR\n0S06gAA8czXDXllphgLT4mqcg0nYPZObExrggjZqE6l3y4LPn0K2NXxYfHT18Hk7\nUzV8K7/1L90/ISBbkRz1g52VfmPS0sQ42zqBeC0HSjOf+pd3FZeUFvk1AoGATlV/\nicC0l4OrbNGi8LKeT0jPbjXPsZhEiSvrAzWD/AP8aVEBperN3GEdake8rLewjXCq\n9pxQ6wzEmI94a0C5bwvzwx+GVVCz5RcF9nr6aQ7z5bnDZ6kHLDU7jfrRYrI3zZGS\nGNPZcWUofDqXUzEIRk68x11mXKD3hI2+16AEnikCgYA4n65tRaaEj9Se4qosyeWR\nifa6JmUiER/gSAspgWOMvxkxYTgdxJauUKhOXVhk/J2TCtri3sYLuestNnBMRNU5\ns1//q4e5bnpajhu6k2BMkZBwWTQaSoqlcsc+Wo00rhzlUeON12purz4DVxznypAr\nQgk7r/C8a7V7UkYE/t058Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firestore@os-serbia-quarkus.iam.gserviceaccount.com",
+  "client_id": "109593938542275718225",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firestore%40os-serbia-quarkus.iam.gserviceaccount.com"
+}
